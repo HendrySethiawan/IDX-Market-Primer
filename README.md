@@ -1,8 +1,8 @@
 # IDX Market Primer - Skeleton Implementation
 
-![Python](https://img.shields.io/badge/Python-3.13.7-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Skeleton%20Code-green.svg)
 
 **Skeleton implementation for IDX Market Primer framework** - Initial Jupyter notebook version for analyzing Indonesia's stock market structure.
 
