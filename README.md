@@ -2,7 +2,7 @@
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37600.svg?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Skeleton%20Code-gray.svg)
+![Status](https://img.shields.io/badge/Status-Skeleton%20Code-yellow.svg)
 
 **Skeleton implementation for IDX Market Primer framework** - Initial Jupyter notebook version for analyzing Indonesia's stock market structure.
 
