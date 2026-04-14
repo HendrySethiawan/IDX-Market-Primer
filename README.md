@@ -111,3 +111,8 @@ Contributions are welcome! Please submit a pull request or open an issue.
 ## 🔐 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+Signal to strategy. Production-ready for IDX.  
+📖 [Documentation](link) | 🐛 [Report Issue](link) | 🤝 [Contribute](link)  
+© [Year] [Your Name/Org]. Licensed under [License].
