@@ -106,13 +106,27 @@ With this production-ready implementation complete:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please submit a pull request or open an issue.
+Contributions are welcome! Please submit issues or pull requests.
 
-## 🔐 License
+To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
+
+## 📧 Contact
+
+For business inquiries, technical support, or partnership opportunities, please contact me at:
+**[h.sethiawan@gmail.com]**
+
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-Signal to strategy. Production-ready for IDX.  
-📖 [Documentation](link) | 🐛 [Report Issue](link) | 🤝 [Contribute](link)  
-© [Year] [Your Name/Org]. Licensed under [License].
+
+<div align="center">
+Engineering Signal & Strategy for the Indonesian Capital Market
+
+</div>
